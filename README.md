@@ -1,7 +1,3 @@
-<h1 align="center">Welcome to Atlas Mart 👋</h1>
-<a href="https://github.com/1hanzla100/Django-React-Marketplace/blob/master/License.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/1hanzla100/Django-React-Marketplace"></a>
-<a href="https://github.com/1hanzla100/Django-React-Marketplace/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/1hanzla100/Django-React-Marketplace"></a>
-<a href="https://github.com/1hanzla100/Django-React-Marketplace/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/1hanzla100/Django-React-Marketplace"></a> <a href="https://github.com/1hanzla100/Django-React-Marketplace/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/1hanzla100/Django-React-Marketplace"></a>
 
 ## Atlas Mart is a OLX like Marketplace built with Python Django and React.js, Material UI
 
@@ -75,11 +71,11 @@ $ python manage.py runserver
 
 ## Author
 
-👤 **Hanzla Tauqeer**
+👤 **John Ma**
 
--   Website: https://hanzla.netlify.app
--   Github: [@1hanzla100](https://github.com/1hanzla100)
--   LinkedIn: [@1hanzla100](https://linkedin.com/in/1hanzla100)
+-   Github: [@techsavvy6](https://github.com/TechSavvy6/)
+-   LinkedIn: [@/techsavvy6it](https://www.linkedin.com/in/techsavvy6it)
+))
 
 ## Show your support
 
