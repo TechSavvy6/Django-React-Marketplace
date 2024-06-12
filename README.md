@@ -74,8 +74,7 @@ $ python manage.py runserver
 👤 **John Ma**
 
 -   Github: [@techsavvy6](https://github.com/TechSavvy6/)
--   LinkedIn: [@/techsavvy6it](https://www.linkedin.com/in/techsavvy6it)
-))
+-   LinkedIn: [@techsavvy6it](https://www.linkedin.com/in/techsavvy6it)
 
 ## Show your support
 
